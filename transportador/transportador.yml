@@ -1,0 +1,7 @@
+spring:
+  datasorce:
+    url: jdbc:h2:mem:alura-transportador
+    username: sa
+    passwod:
+    driverClassName: org.h2.Driver
+    ddl-auto: update
